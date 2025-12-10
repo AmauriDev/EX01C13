@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1765283736 source:c:\users\dsrso\onedrive\escritorio\c exercise\13 - storage classes and program development\01-exercise\src\getarray.c
+	<stdio.h>
+
+1765286099 source:c:\users\dsrso\onedrive\escritorio\c exercise\13 - storage classes and program development\01-exercise\src\print.c
+	<stdio.h>
+
+1765285008 source:c:\users\dsrso\onedrive\escritorio\c exercise\13 - storage classes and program development\01-exercise\src\sort.c
+
+1765284695 source:c:\users\dsrso\onedrive\escritorio\c exercise\13 - storage classes and program development\01-exercise\src\sort_int.c
+	<stdio.h>
+

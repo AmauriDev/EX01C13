@@ -14,7 +14,7 @@ The program collects a series of integers from the user and displays them sorted
 3. **Sort** the list in decreasing (descending) order.
 4. **Display** the sorted list.
 
-### 2. Overal Description
+## 2. Overal Description
 The system interacts with user through a console interface.
 The user provide integer values one at a time.
 The system stores up to 100 value and terminates input early is the user enter the character '#'

@@ -53,14 +53,14 @@ It does not perform sorting itself; instead, it provides output of sorted values
 | Number of elements     |                                              |         |
 
 ### 2.2 Interaction with other modules
-The module acts as an interface between the user and the sorting subsystem.
+The module acts as an interface between the user and the `Sorting system`.
 It allows the system  to print data before and after the data is processed
 1. The `main()` evaluates if there is data to print:
    1. After user provided data with `getarray()`
    2. After `sort()` sorted those values
  
 ### 2.3 Dependencies
-This module depends on:
+This module depends on: n
 - Standard Output (console output)
 - The caller's memory buffer (the integer array provided as a parameter)
 It does not allocate memory on its own and does not dependend on external storage of files
